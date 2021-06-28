@@ -1,0 +1,1 @@
+Laracasts Queue it up series
